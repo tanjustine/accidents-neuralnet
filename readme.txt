@@ -25,3 +25,6 @@ Configurations and preferences:
 ○ Topology: ​The topology of each experiment can be configured in the program by changing the integers inside the respective arrays.
 ○ Activation: ​Activation can be configured by inputting 1 for Relu or 0 for Sigmoid
 ○ Learning Rate and Momentum: ​This can be set by inputting the desired values in their respective functions. The program accepts decimal inputs. By default, both are set to 1.
+
+Acknowledgement
+I would like to thank Mr. Raphael Alampay for his guidance in this project and Dr. Kardi Teknomo for the dataset.
